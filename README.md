@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="https://dev.to/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/twitter.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/linkedin.png"></a>
+  <a href="https://dev.to/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/dev.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>
 </p>
 
 <h3>Things I code with</h3>
