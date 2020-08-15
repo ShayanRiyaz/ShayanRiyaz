@@ -12,11 +12,7 @@ Here are some ideas to get you started:
   Software/Electrical Engineer from 🇵🇰 <b> Karachi, Pakistan</b> at 🇺🇸 <b> Los Angeles, California</b>
 </p>
 
-- 🔭 I’m currently working on - [Digital History Curriculum](https://github.com/bitprj/DigitalHistory), [TensorFlow Develop Certificate](https://www.tensorflow.org/certificate)
-- 🌱 I’m currently learning Python for intensive data applications.
-- 👯 I’m looking to collaborate on Anything related to Deep Learning project deployment.
-- 🤔 I’m looking for help with brainstorming projects
-- 💬 Ask me about AI and Using technology to foster growth based communities
+
 
 <p align='center'>
   <a href="https://medium.com/@shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/medium.png"></a>&nbsp;&nbsp;
@@ -24,6 +20,12 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/twitter.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>
 </p>
+
+- 🔭 I’m currently working on - [Digital History Curriculum](https://github.com/bitprj/DigitalHistory), [TensorFlow Develop Certificate](https://www.tensorflow.org/certificate)
+- 🌱 I’m currently learning Python for intensive data applications.
+- 👯 I’m looking to collaborate on Anything related to Deep Learning project deployment.
+- 🤔 I’m looking for help with brainstorming projects
+- 💬 Ask me about AI and Using technology to foster growth based communities
 
 <h3>Things I code with</h3>
 <p>
