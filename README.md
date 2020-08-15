@@ -14,7 +14,8 @@ Here are some ideas to get you started:
   <a href="https://medium.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/medium.png"></a>&nbsp;&nbsp;
   <a href="https://dev.to/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/twitter.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/kaggle.png"></a>&nbsp;&nbsp;
 </p>
 
 - 🔭 I’m currently working on - [Digital History Curriculum](https://github.com/bitprj/DigitalHistory), [TensorFlow Developers Certificate](https://www.notion.so/shayanriyaz/TensorFlow-Developer-Certificate-56afe3ca88df4288aa789bade4c4e75e)
