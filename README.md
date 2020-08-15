@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>
 </p>
 
-- 🔭 I’m currently working on - [Digital History Curriculum](https://github.com/bitprj/DigitalHistory), [TensorFlow Develop Certificate](https://www.tensorflow.org/certificate)
+- 🔭 I’m currently working on - [Digital History Curriculum](https://github.com/bitprj/DigitalHistory), [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
 - 🌱 I’m currently learning Python for intensive data applications.
 - 👯 I’m looking to collaborate on Anything related to Deep Learning project deployment.
 - 🤔 I’m looking for help with brainstorming projects
