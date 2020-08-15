@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="https://medium.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/medium.png"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@shayanriyaz"><img height="40" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/medium.png"></a>&nbsp;&nbsp;
   <a href="https://dev.to/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/twitter.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>
