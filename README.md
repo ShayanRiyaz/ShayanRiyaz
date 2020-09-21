@@ -16,7 +16,6 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/twitter.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/kaggle.png"></a>&nbsp;&nbsp;
-</p>
   <a href="https://www.shutterstock.com/g/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/shutterstock.png"></a>&nbsp;&nbsp;
 </p>
 
