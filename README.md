@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Anything related to Deep Learning project deployment.
 - 🤔 I’m looking for help with brainstorming projects
 - 💬 Ask me about AI and Using technology to foster growth based communities
-- 📷 I also take pictures in my free time, you can check it out and support me [here.](https://www.shutterstock.com/g/shayanriyaz)
+- 📷 I also take pictures in my free time, you can check it out and support me here ->  <a href="https://www.shutterstock.com/g/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/shutterstock.png"></a>&nbsp;&nbsp;
 
 <h3>Things I code with</h3>
 <p>
