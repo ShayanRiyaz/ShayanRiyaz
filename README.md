@@ -17,12 +17,15 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/kaggle.png"></a>&nbsp;&nbsp;
 </p>
+  <a href="https://www.shutterstock.com/g/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/shutterstock.png"></a>&nbsp;&nbsp;
+</p>
 
 - 🔭 I’m currently working on - [Digital History Curriculum](https://github.com/bitprj/DigitalHistory), [TensorFlow Developers Certificate](https://www.notion.so/shayanriyaz/TensorFlow-Developer-Certificate-56afe3ca88df4288aa789bade4c4e75e)
 - 🌱 I’m currently learning Python for intensive data applications.
 - 👯 I’m looking to collaborate on Anything related to Deep Learning project deployment.
 - 🤔 I’m looking for help with brainstorming projects
 - 💬 Ask me about AI and Using technology to foster growth based communities
+- 📷 I also take pictures in my free time, you can check it out and support me [here.](https://www.shutterstock.com/g/shayanriyaz).
 
 <h3>Things I code with</h3>
 <p>
