@@ -5,9 +5,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-<h1 align='center'> :wave: Hi there! I'm <a href="https://shayanriyaz.github.io"> Shayan</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
-
 <p align='center'>
   Software/Electrical Engineer from 🇵🇰 <b> Karachi, Pakistan</b> at 🇺🇸 <b> Los Angeles, California</b>
 </p>
