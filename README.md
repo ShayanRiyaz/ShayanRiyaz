@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  Software/Electrical Engineer from 🇵🇰 <b> Karachi, Pakistan</b> at 🇺🇸 <b> Los Angeles, California</b>
+  Software/Electrical Engineer from 🇵🇰 <b> Karachi, Pakistan</b>. Currently living in 🇺🇸 <b> Los Angeles, California</b>
 </p>
 
 <p align='center'>
