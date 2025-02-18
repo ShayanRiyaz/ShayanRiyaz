@@ -16,6 +16,3 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/shayan-riyaz/"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/linkedin.png"></a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/shayanriyaz"><img height="30" src="https://raw.githubusercontent.com/ShayanRiyaz/ShayanRiyaz/master/icons/kaggle.png"></a>&nbsp;&nbsp;
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShayanRiyaz" alt="pragativerma18" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayanriyaz&show_icons=true" alt="shayanriyaz" /></p>
